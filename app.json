@@ -13,6 +13,7 @@
     "android": {
   "package": "com.pavani.greeting",
   "versionCode": 1,
+  "googleServicesFile": "./google-services.json",
   "adaptiveIcon": {
     "backgroundColor": "#E6F4FE",
     "foregroundImage": "./assets/images/android-icon-foreground.png",
@@ -27,6 +28,13 @@
     },
     "plugins": [
       "expo-router",
+       [
+    "expo-notifications",
+    {
+      "icon": "./assets/images/icon.png",
+      "color": "#ffffff"
+    }
+  ],
       [
         "expo-splash-screen",
         {

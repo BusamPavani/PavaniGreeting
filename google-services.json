@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261718233691",
+    "project_id": "my-mobile-app-714c1",
+    "storage_bucket": "my-mobile-app-714c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261718233691:android:99949effb61bbe3d5e657e",
+        "android_client_info": {
+          "package_name": "com.pavani.greeting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8gW8bjKu2n0MhalnswK8Q0ROM1KUldWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
